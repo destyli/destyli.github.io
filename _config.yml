@@ -1,2 +1,3 @@
 name: destyli homepage
 markdown: cramdown
+permalink: /blog/:year/:month/:day/:title
