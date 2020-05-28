@@ -1,3 +1,9 @@
+---
+layout: post
+title: "destyli, First post after site-launch"
+date: 2020-05-27
+---
+
 This is the first post after the site-launch post. In this post I'd like to list things that I thought of that I'd like to blog
 about. This is likely going to be a running list as I think of more things to cover:
 <ul>
