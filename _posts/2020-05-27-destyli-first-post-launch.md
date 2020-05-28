@@ -11,4 +11,3 @@ about. This is likely going to be a running list as I think of more things to co
   <li>Technology related topics
   <li>Computer simulation (esp. related to biochemical/neural signaling) related topics
   <li>Fun/Games
-</ul>
